@@ -17,7 +17,7 @@ void main() {
     exit(1);
   }
 
-  print('''👍 Valid commit message!''');
+  print('👍 Valid commit message!');
   exit(0);
 }
 
